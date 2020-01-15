@@ -1,0 +1,4 @@
+
+$hostname
+$hostname -ip
+$ssh yourusername@host_ip_adress
